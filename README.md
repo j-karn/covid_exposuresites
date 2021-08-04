@@ -7,5 +7,5 @@ The data is for locations associated with confirmed COVID-19 cases that have bee
 
 <li>working with json file</li>
 <li>pivot table</li>
-<li>merge tables<li>
+<li>merge tables</li>
 <li>mapbox</li>

@@ -1,8 +1,5 @@
 # miscellaneous
 
-Part of learning experience:
-<br>
-<br>
 <b>Exposure sites</b>
 <br>
 <br>

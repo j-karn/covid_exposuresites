@@ -1,4 +1,4 @@
-# miscellaneous
+# Visualising using mapbox
 
 <b>Exposure sites</b>
 <br>

@@ -8,6 +8,6 @@ The data is for locations associated with confirmed COVID-19 cases that have bee
 <li>merge tables</li>
 <li>mapbox</li>
 <b>Libraries</b> - requests, json, urllib, pandas, mapbox, plotly
-
+<br></br>
 In the case that the notebook doesn't render properly, please use the  <a href="https://nbviewer.org/github/j-karn/covid_exposuresites/blob/main/2021_Nov_COVID_map.ipynb">nbviewer link here.</a>
 
